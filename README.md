@@ -15,3 +15,6 @@ dealpership website.
 
 To get started with this project, clone this repo in VS2017+
 and ensure the .NET Core SDK 2.2 is installed
+
+![carwebsite](https://user-images.githubusercontent.com/46455342/55755679-88066400-5a04-11e9-98bd-0270e3249af8.PNG)
+
